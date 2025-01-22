@@ -1,0 +1,18 @@
+As we have discussed over the call, we have some queries and need clarification regarding the new custom field requirements for Delrin APA.
+
+Custom Fields to be added:
+Delivery note number/ Delivery number.
+Shipment number/Shipment receipt number , freight number.
+Down payment /advance payment /Advance.
+Shipment cost.
+
+Delivery Note Number / Delivery Number, Shipment Number / Shipment Receipt Number / Freight Number and Shipment cost:
+After reviewing the freight invoices shared by the Delrin team, we observed that this information does not appear on the main invoice page. Instead, it is included on accompanying documents, such as sea waybills. As a result, we cannot rely on manual training for capturing these fields effectively. We will need to explore the possibility of using the advanced designer features to extract this information. We need to establish a general method to extract this information from all freight samples.
+For this we have these requirements:
+Sample Size: Since we currently have a limited number of freight invoice samples, we require more samples to analyze and evaluate how to implement this functionality effectively.
+Data Placement: We need to determine the exact location of this data on invoices or accompanying documents. For instance, does it always appear in a specific section, or does its placement vary across documents?.
+Consistency in Format: We need to understand if there is a consistent format for these numbers. For example, if the numbers are similar to "7809756431" or "7895462341",
+do they always: Start with a specific prefix (e.g., "780")? Contain a fixed number of digits (e.g., 10 digits)?
+(Please find the attached samples for references)
+Down Payment/Advance Payment: Since this information is included in proforma invoices, we require some proforma invoices to analyze and conduct sample training accordingly. So far, we have not received any proforma invoices for analysis. Please help us on this.
+Additionally, introducing more custom fields will require additional time to implement across all regions in scope. Furthermore, adding more custom fields may impact accuracy. Therefore, we kindly request detailed field-level information necessary for the overall processing and humbly suggest finalizing the list of required fields to ensure clarity and avoid further adjustments.
